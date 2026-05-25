@@ -1,0 +1,27 @@
+Create a visually stunning premium cafe website for “Velvet Brew Cafe” in Hyderabad.
+
+Design Style:
+- modern luxury cafe
+- colorful but elegant
+- aesthetic coffee-shop atmosphere
+- warm lighting feel
+- trendy Instagram-style visuals
+- smooth modern layout
+- premium UI design
+
+Color Palette:
+- coffee brown
+- cream
+- caramel
+- warm orange
+- soft black accents
+
+Website Sections:
+1. Hero section with bold headline and attractive background image
+2. Featured coffees with stylish cards
+3. Desserts showcase section
+4. Cozy workspace section for students and freelancers
+5. Customer testimonials
+6. Special offers banner
+7. Booking / Reserve Table CTA
+8. Footer with social media links
