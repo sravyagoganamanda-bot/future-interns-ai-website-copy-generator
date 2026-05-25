@@ -37,5 +37,4 @@ The project successfully generated a realistic and visually appealing cafe websi
 ## Live Website
 Paste your Lovable website link here
 ## Live Website
-velvet-brew-beauty
-.lovable.app
+https://velvet-brew-beauty.lovable.app
