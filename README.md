@@ -35,6 +35,4 @@ A detailed master prompt was designed to generate:
 The project successfully generated a realistic and visually appealing cafe website using AI-powered prompt engineering.
 
 ## Live Website
-Paste your Lovable website link here
-## Live Website
 https://velvet-brew-beauty.lovable.app
